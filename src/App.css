@@ -36,6 +36,9 @@ body {
   color: white;
   background-color: brown;
 }
+.btn:hover{
+  background-color: rgba(255, 145, 0, 0.892);
+}
 #cat {
   width: 200px;
   height: 20px;
