@@ -36,7 +36,10 @@ body {
   color: white;
   background-color: brown;
 }
-.btn.cartbtn:hover{
+.btn:hover{
+  background-color: rgba(255, 145, 0, 0.892);
+}
+.cartbtn:hover{
   background-color: rgba(255, 145, 0, 0.892);
 }
 #cat {
